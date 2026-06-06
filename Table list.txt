@@ -1,0 +1,32 @@
+1. Admin Table
+----------------
+admin_id
+username
+password
+
+2. Student Table
+----------------
+student_id
+student_name
+department
+year
+
+3. Attendance Table
+-------------------
+attendance_id
+student_id
+attendance_percentage
+
+4. Marks Table
+--------------
+marks_id
+student_id
+assignment_score
+previous_marks
+
+5. Performance Table
+--------------------
+performance_id
+student_id
+predicted_score
+performance_status
